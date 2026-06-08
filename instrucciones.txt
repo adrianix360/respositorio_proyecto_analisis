@@ -1,0 +1,143 @@
+# Instrucciones para el trabajo de investigación
+
+**MA-1006 Introducción al Análisis Numérico**  
+**Grupo 02**  
+**II Ciclo 2025**
+
+## Composición de los grupos
+
+El trabajo se realiza en grupos de máximo 5 personas.
+
+## Fechas de entrega y presentación
+
+El informe escrito debe entregarse el **viernes 28 de noviembre**, por Medio de Mediación Virtual.
+
+Solo una persona del subgrupo subirá el documento, y debe colocar el nombre completo y carné de todos los integrantes en la caja de texto que aparece en la Entrega.
+
+Las presentaciones orales se realizarán entre el **17 de noviembre y el 28 de noviembre**.
+
+Los órdenes de los grupos serán escogidos a conveniencia.
+
+Se establece que todos los estudiantes deben estar presentes en todas las presentaciones de sus compañeros.
+
+---
+
+# Criterios de Evaluación
+
+La investigación tiene un valor de **10%**.
+
+Esta tratará sobre alguno de los temas presentados en el Anexo de la Carta al Estudiantado, los cuales son aplicaciones a Ingeniería Civil o a Ciencias de la Computación.
+
+Los temas pueden estudiarse revisando:
+
+- Artículos vigentes (desde el año 2015 en adelante).
+- Investigaciones especializadas.
+- Libros de texto especializados.
+
+> No se permite reciclar investigaciones realizadas por estudiantes de semestres previos, ya que se compararán con dichos documentos en caso de sospecha.
+
+---
+
+# Componentes de la investigación
+
+La investigación se compone de dos partes:
+
+## 1. Documento escrito (Word o LaTeX)
+
+**Valor: 5%**
+
+Debe tener formato de artículo e incluir:
+
+### a) Título, autores y resumen
+
+### b) Cuerpo del documento
+
+Debe contener:
+
+- Introducción.
+- Desarrollo (puede dividirse en varias secciones).
+- Exposición clara de las ideas principales.
+- Buen uso y claridad de ecuaciones y símbolos matemáticos.
+
+### c) Implementación de software y códigos
+
+Debe incluir:
+
+- Algún lenguaje de programación (preferiblemente Python o Matlab).
+- También pueden utilizarse R, Java u otros.
+- Ejemplificación y ejecución del código.
+- Archivos adjuntos mediante enlace a Google Drive o GitHub.
+
+> Debido a que el curso es de Análisis Numérico, es importante aplicar conocimientos del curso.
+
+### d) Conclusiones
+
+### e) Referencias
+
+Las referencias deben presentarse en formato **IEEE**.
+
+En todo caso, leer detalladamente las instrucciones para autores de la Revista Ingeniería UCR:
+
+https://revistas.ucr.ac.cr/index.php/ingenieria
+
+> No es necesario utilizar formato a doble columna.
+
+---
+
+## 2. Presentación oral
+
+**Valor: 5%**
+
+La presentación debe estar apoyada con:
+
+- PowerPoint
+- Beamer
+
+Debe resumir el documento elaborado.
+
+Características esperadas:
+
+- Clara.
+- Breve.
+- Estéticamente agradable.
+- Concisa.
+- Imágenes bien proporcionadas.
+- Sin imágenes estiradas o pixeladas.
+
+### Rubro de evaluación
+
+| Criterio | Valor |
+|-----------|--------|
+| Claridad de la presentación | 2% |
+| Dominio del tema | 1% |
+| Distribución del trabajo y de la exposición | 1% |
+| Asistencia a otras presentaciones | 1% |
+
+#### Claridad de la presentación (2%)
+
+- Uso efectivo de recursos visuales.
+- Expresión oral clara y coherente.
+- Estructura lógica de la exposición.
+
+#### Dominio del tema (1%)
+
+El grupo demuestra comprensión profunda del problema, los métodos utilizados y los resultados obtenidos.
+
+#### Distribución del trabajo y de la exposición (1%)
+
+Todos los integrantes deben participar activamente tanto en la ejecución del trabajo como en la exposición.
+
+#### Asistencia a otras presentaciones (1%)
+
+Es obligatorio:
+
+- Asistir a las exposiciones de otros grupos.
+- Realizar al menos una pregunta por presentación.
+
+---
+
+## Inscripción de subgrupos
+
+Para inscribir su subgrupo y tema pueden anotarse en el enlace proporcionado por el curso:
+
+**[Dele clic acá]**
