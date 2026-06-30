@@ -1,4 +1,4 @@
-Proyecto de análisis numérico, Univerdicidad de Costa Rica
+Proyecto de análisis numérico, Universidad de Costa Rica
 Sede Rodrigo Facio Brenes
 Facultad de ingeniería
 Escuela de ingeniería civil
